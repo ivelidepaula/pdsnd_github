@@ -1,6 +1,6 @@
 ### Date created
 
-The current project and its README file were created on March 24th, 2020
+The current project and its README file were created on March 24th, 2020.
 
 ### Project Title
 US Bikeshare Data
