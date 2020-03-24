@@ -10,9 +10,9 @@ This is the second project for Udacity's "Programming for Data Science with Pyth
 
 ### Files used
 It is necessary the three city dataset files:
--chicago.csv
--new_york_city.csv
--washington.csv
+- chicago.csv
+- new_york_city.csv
+- washington.csv
 
 ### Credits
 - Video: [ Configurando rapidamente repositórios Git e Github pelo VS Code](https://www.youtube.com/watch?v=H0SQAW9tmmE&t=692s) - *in Portuguese - no subtitles available*
