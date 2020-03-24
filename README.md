@@ -15,5 +15,5 @@ It is necessary the three city dataset files:
 -washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+- Video: [ Configurando rapidamente repositórios Git e Github pelo VS Code](https://www.youtube.com/watch?v=H0SQAW9tmmE&t=692s) - *in Portuguese - no subtitles available*
+- Article:  [Ignoring files - Github.com](https://help.github.com/en/github/using-git/ignoring-files)  
